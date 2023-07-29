@@ -1,0 +1,23 @@
+body {
+    background-image: url(/images/mainbgm.jpg);
+}
+
+.Hajimemashite {
+    font-style: italic;
+}
+
+.OLRimages{
+    display: flex;
+    border: 4px solid;
+}
+
+img {
+    display: flex;
+    border: 4px solid;
+    width: 300px;
+}
+.js {
+    background-color: rgb(205, 238, 61);
+    display: flex;
+    padding: 25px;
+}
